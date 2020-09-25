@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 
 Estoy ambiando configuraciones del archivo
 Centeno Chavez
 Eduardo Jose Centeno Chavez
 edad: 24
 El Salvador
+=======
+Jose Centeno 
+Edad 40
+Es de EEUU
+Soy estudiante
+programacion 
+>>>>>>> d6cc91899265c31794c755115c43c44e46edb75d
