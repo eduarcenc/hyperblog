@@ -1,3 +1,5 @@
-Eduardo Jose Centeno Chavez
-edad: 24
-El Salvador
+Jose Centeno 
+Edad 40
+Es de EEUU
+Soy estudiante
+programacion 
