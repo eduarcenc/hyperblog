@@ -1,3 +1,6 @@
+
+Estoy ambiando configuraciones del archivo
+Centeno Chavez
 Eduardo Jose Centeno Chavez
 edad: 24
 El Salvador
